@@ -33,7 +33,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Sanguis99/Sanguis99/output/snake.svg" alt="Snake animation" />
-
-###
